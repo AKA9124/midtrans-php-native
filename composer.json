@@ -1,0 +1,5 @@
+{
+    "require": {
+        "veritrans/veritrans-php": "^1.2"
+    }
+}
